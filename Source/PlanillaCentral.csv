@@ -1,0 +1,815 @@
+planilla;Fecha Entrega;N Reparto;Patente Alfanumerico;ChoferApellido Nombre;Id Puesto;NLegajo;Apellido Nombre Personal;Btos Cig;Btos Varios;Btos C Asiatico;Btos Totales;Id Destino;Id Tipo de Flota
+10524;01/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );46;82;;128;5;1
+10525;01/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );37;59;;96;5;1
+10527;01/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );17;68;;85;5;1
+10530;01/12/2020;732;EZH 963;Diaz, jorge;1;;LOSITO DIAS, Cristian Andres ( MRG );3;;;3;5;1
+10529;01/12/2020;732;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );73;47;;120;5;1
+10531;01/12/2020;733;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;81;99;;180;5;1
+10491;01/12/2020;65;AB 325 WT;De Maio, Ruben;1;1346;IRIARTE, Jesus Alejandro;1;2;;3;5;1
+10532;01/12/2020;38;AB 325 WT;De Maio, Ruben;1;1346;IRIARTE, Jesus Alejandro;;7;;7;5;1
+10533;01/12/2020;734;AB 325 WT;De Maio, Ruben;1;1346;IRIARTE, Jesus Alejandro;54;98;;152;5;1
+10534;01/12/2020;106;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;5;;5;5;1
+10535;01/12/2020;135;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;4;;4;5;1
+10536;01/12/2020;835;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;22;22;5;1
+10537;01/12/2020;735;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);42;83;;125;5;1
+10539;01/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;;;1;5;1
+10538;01/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);70;58;;128;5;1
+10544;01/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;2;;;2;5;1
+10540;01/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;46;69;;115;5;1
+10545;01/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );66;56;;122;5;1
+10546;01/12/2020;741;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );13;18;;31;5;1
+10509;01/12/2020;314;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;384;384;6;1
+10466;01/12/2020;314;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;151;151;6;1
+10528;01/12/2020;739;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;11;5;;16;5;1
+10508;01/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;4;;4;5;1
+10512;01/12/2020;302;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;36;36;5;1
+10510;01/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;80;;80;5;1
+10513;01/12/2020;301;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;69;69;5;1
+10511;01/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;96;96;5;1
+10515;01/12/2020;303;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;19;19;5;1
+10516;01/12/2020;304;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;23;23;5;1
+10514;01/12/2020;302;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;158;158;5;1
+10526;01/12/2020;740;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;25;27;;52;5;1
+10522;01/12/2020;308;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;16;16;5;1
+10476;01/12/2020;308;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;81;81;5;1
+10523;01/12/2020;306;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;2;2;5;1
+10474;01/12/2020;306;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;25;25;5;1
+10475;01/12/2020;307;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;33;33;5;1
+10473;01/12/2020;305;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;65;65;5;1
+10521;01/12/2020;305;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;36;36;5;1
+10519;01/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;147;147;5;1
+10520;01/12/2020;307;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;56;56;5;1
+10518;01/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;248;248;5;1
+10517;01/12/2020;300;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;120;120;5;1
+10549;01/12/2020;28;;;;;;4;;;4;2;2
+10548;01/12/2020;8;;;;;;8;;;8;2;2
+10569;02/12/2020;8;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );32;82;;114;5;1
+10556;02/12/2020;19;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;8;8;5;1
+10496;02/12/2020;731;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );5;5;;10;5;1
+10571;02/12/2020;731;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );29;25;;54;5;1
+10570;02/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );32;35;;67;5;1
+10572;02/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );33;67;;100;5;1
+10503;02/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );7;25;;32;5;1
+10497;02/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );14;;;14;5;1
+10573;02/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );55;108;;163;5;1
+10498;02/12/2020;734;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;10;;;10;5;1
+10574;02/12/2020;734;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;64;154;;218;5;1
+10557;02/12/2020;735;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);2;;;2;5;1
+10575;02/12/2020;735;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);50;77;;127;5;1
+10500;02/12/2020;736;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;2;13;;15;5;1
+10576;02/12/2020;736;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;47;173;;220;5;1
+10501;02/12/2020;737;AB 934 DA;Salada, Juan;1;8092;GULLO, Ariel Hernan (MRG);10;;;10;5;1
+10577;02/12/2020;737;AB 934 DA;Salada, Juan;1;8092;GULLO, Ariel Hernan (MRG);56;128;;184;5;1
+10554;02/12/2020;127;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;6;;6;5;1
+10568;02/12/2020;731;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );5;8;;13;5;1
+10502;02/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );16;4;;20;5;1
+10579;02/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );36;119;;155;5;1
+10543;02/12/2020;735;OIA 777;Baez, Roberto;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;128;;128;5;1
+10541;02/12/2020;135;OIA 777;Baez, Roberto;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;4;;4;5;1
+10542;02/12/2020;835;OIA 777;Baez, Roberto;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;21;21;5;1
+10558;02/12/2020;735;OIA 777;Baez, Roberto;1;1076;LOPEZ CENTURION, Cristian Maximiliano;7;;;7;5;1
+10580;02/12/2020;739;OIA 777;Baez, Roberto;1;1076;LOPEZ CENTURION, Cristian Maximiliano;28;82;;110;5;1
+10560;02/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;20;20;6;1
+10547;02/12/2020;731;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;5;;5;5;1
+10559;02/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;241;241;6;1
+10562;02/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;93;93;6;1
+10561;02/12/2020;305;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;175;175;5;1
+10578;02/12/2020;313;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;43;43;6;1
+10566;02/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;138;138;5;1
+10565;02/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;25;25;5;1
+10567;02/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;29;29;5;1
+10564;02/12/2020;307;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;197;197;5;1
+10583;02/12/2020;8;;;;;;6;;;6;2;2
+10584;02/12/2020;28;;;;;;4;;;4;2;2
+10585;02/12/2020;232;;;;;;12;;;12;2;2
+10563;02/12/2020;307;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;5;;5;5;1
+10505;02/12/2020;307;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;70;;70;5;1
+10555;02/12/2020;17;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;4;;4;5;1
+10553;02/12/2020;17;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;1;;1;5;1
+10492;02/12/2020;17;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;7;;7;5;1
+10606;03/12/2020;37;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;1;;1;5;1
+10607;03/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );43;48;;91;5;1
+10608;03/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );27;65;;92;5;1
+10610;03/12/2020;38;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;5;;5;5;1
+10611;03/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );29;78;;107;5;1
+10612;03/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );70;103;;173;5;1
+10613;03/12/2020;734;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;69;65;;134;5;1
+10590;03/12/2020;732;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;3;13;;16;5;1
+10587;03/12/2020;738;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;4;;4;5;1
+10614;03/12/2020;735;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;52;84;;136;5;1
+10615;03/12/2020;736;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);62;117;;179;5;1
+10616;03/12/2020;737;msp 495;Galindez, Miguel;1;8092;GULLO, Ariel Hernan (MRG);75;76;;151;5;1
+10552;03/12/2020;37;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;15;;15;5;1
+10617;03/12/2020;232;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;3;;3;5;1
+10620;03/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;3;;;3;5;1
+10618;03/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;42;122;;164;5;1
+10555;03/12/2020;17;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;4;;4;5;1
+10553;03/12/2020;17;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;1;;1;5;1
+10492;03/12/2020;17;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;7;;7;5;1
+10604;03/12/2020;303;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;;62;62;5;1
+10603;03/12/2020;302;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;;65;65;5;1
+10605;03/12/2020;304;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;;38;38;5;1
+10563;03/12/2020;307;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;5;5;5;1
+10505;03/12/2020;307;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;70;70;5;1
+10592;03/12/2020;3;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;20;;20;6;1
+10591;03/12/2020;311;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;91;91;6;1
+10602;03/12/2020;102;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;20;20;6;1
+10601;03/12/2020;301;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;252;252;5;1
+10600;03/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;272;272;5;1
+10582;03/12/2020;736;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;135;135;5;1
+10609;03/12/2020;731;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;22;;22;5;1
+10599;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;63;63;6;1
+10598;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;121;121;6;1
+10597;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;80;80;6;1
+10596;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;153;153;6;1
+10593;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;78;78;6;1
+10595;03/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;85;85;6;1
+10621;03/12/2020;8;;;;;;6;;;6;2;2
+10622;03/12/2020;28;;;;;;4;;;4;2;2
+10586;03/12/2020;462;;;;;;16;;;16;2;2
+10643;04/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );21;21;;42;5;1
+10651;04/12/2020;733;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );24;114;;138;5;1
+10650;04/12/2020;731;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;235;;235;5;1
+10629;04/12/2020;313;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;;74;74;6;1
+10644;04/12/2020;8;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );16;50;;66;5;1
+10646;04/12/2020;37;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;1;;1;5;1
+10647;04/12/2020;19;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;4;4;5;1
+10648;04/12/2020;39;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;18;18;5;1
+10649;04/12/2020;732;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );32;;92;124;5;1
+10661;04/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;;;1;5;1
+10652;04/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );54;90;;144;5;1
+10653;04/12/2020;37;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;;76;;76;5;1
+10654;04/12/2020;735;JOT 778;Azzara, Daniel;1;182;BUSTOS, Leonardo Fermin;52;93;;145;5;1
+10655;04/12/2020;736;LIF 149;Makarsic, Sebastian;1;5042;VAN DER BUERIE, Pablo Javier (MRG);53;100;;153;5;1
+10628;04/12/2020;18;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;2;;2;5;1
+10627;04/12/2020;735;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);3;;;3;5;1
+10656;04/12/2020;37;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;56;;56;5;1
+10657;04/12/2020;737;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);50;108;;158;5;1
+10658;04/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;35;87;;122;5;1
+10626;04/12/2020;736;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );1;;;1;5;1
+10619;04/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );41;63;;104;5;1
+10659;04/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );8;7;;15;5;1
+10645;04/12/2020;740;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;16;10;;26;5;1
+10642;04/12/2020;308;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;5;5;5;1
+10633;04/12/2020;306;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;70;70;5;1
+10635;04/12/2020;308;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;57;57;5;1
+10634;04/12/2020;307;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;73;73;5;1
+10625;04/12/2020;314;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;2;2;6;1
+10624;04/12/2020;314;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;362;362;6;1
+10631;04/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;85;85;6;1
+10630;04/12/2020;311;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;32;32;6;1
+10632;04/12/2020;305;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;96;96;5;1
+10640;04/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;6;6;6;1
+10641;04/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;4;4;6;1
+10662;04/12/2020;232;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;110;110;5;1
+10638;04/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;69;69;5;1
+10637;04/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;224;224;5;1
+10639;04/12/2020;307;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;62;62;5;1
+10636;04/12/2020;305;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;153;153;5;1
+10660;04/12/2020;17;;;;;;;70;;70;2;2
+10664;04/12/2020;8;;;;;;7;;;7;2;2
+10665;04/12/2020;28;;;;;;4;;;4;2;2
+10667;04/12/2020;37;;;;;;;72;;72;2;2
+10668;04/12/2020;38;;;;;;1;;;1;2;2
+10670;04/12/2020;232;;;;;;12;;;12;2;2
+10673;04/12/2020;461;;;;;;1;;;1;2;2
+10672;04/12/2020;456;;;;;;2;;;2;2;2
+10671;04/12/2020;452;;;;;;4;;;4;2;2
+10711;05/12/2020;733;;;;;;1;;;1;2;2
+10705;09/12/2020;49;OIA 777;Baez, Roberto;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;490;;490;6;1
+10507;09/12/2020;12;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;47;;47;5;1
+10706;09/12/2020;731;EZH 963;Diaz, jorge;1;8092;GULLO, Ariel Hernan (MRG);57;27;;84;5;1
+10707;09/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );50;28;;78;5;1
+10701;09/12/2020;8;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );5;2;;7;5;1
+10708;09/12/2020;735;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );7;15;;22;5;1
+10702;09/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;;;1;5;1
+10703;09/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );2;4;;6;5;1
+10704;09/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );3;;;3;5;1
+10697;09/12/2020;39;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;15;;15;5;1
+10678;09/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;18;18;5;1
+10681;09/12/2020;311;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;6;6;6;1
+10679;09/12/2020;311;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;161;161;6;1
+10709;09/12/2020;733;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;6;;;6;5;1
+10680;09/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;177;177;6;1
+10692;09/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;2;2;6;1
+10683;09/12/2020;305;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;24;24;5;1
+10682;09/12/2020;304;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;59;59;5;1
+10688;09/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;12;12;6;1
+10684;09/12/2020;301;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;147;147;5;1
+10686;09/12/2020;303;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;10;10;5;1
+10687;09/12/2020;301;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;2;2;5;1
+10685;09/12/2020;302;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;23;23;5;1
+10666;09/12/2020;738;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );2;50;;52;5;1
+10690;09/12/2020;308;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;;10;10;5;1
+10696;09/12/2020;736;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );1;2;;3;5;1
+10694;09/12/2020;307;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;;163;163;5;1
+10691;09/12/2020;305;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;;4;4;5;1
+10695;09/12/2020;308;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;;65;65;5;1
+10712;09/12/2020;37;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;4;;4;5;1
+10710;09/12/2020;734;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;6;6;;12;5;1
+10689;09/12/2020;736;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;1;40;;41;5;1
+10693;09/12/2020;314;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;170;;170;6;1
+10699;09/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;165;165;6;1
+10698;09/12/2020;301;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;153;153;5;1
+10700;09/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;295;295;6;1
+10713;09/12/2020;8;;;;;;8;;;8;2;2
+10714;09/12/2020;28;;;;;;4;;;4;2;2
+10715;09/12/2020;307;;;;;;;5;;5;2;2
+10702;10/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;;;1;5;1
+10728;10/12/2020;37;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;3;;3;5;1
+10729;10/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );30;41;;71;5;1
+10727;10/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );24;30;;54;5;1
+10718;10/12/2020;38;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;;10;10;5;1
+10731;10/12/2020;740;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );2;;;2;5;1
+10732;10/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );15;106;;121;5;1
+10733;10/12/2020;732;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );59;113;;172;5;1
+10734;10/12/2020;740;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );4;9;;13;5;1
+10735;10/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );70;65;;135;5;1
+10739;10/12/2020;734;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;;;1;5;1
+10737;10/12/2020;740;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);4;;;4;5;1
+10736;10/12/2020;18;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;30;;30;5;1
+10738;10/12/2020;734;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);80;92;;172;5;1
+10740;10/12/2020;740;LIF 149;Makarsic, Sebastian;1;1076;LOPEZ CENTURION, Cristian Maximiliano;1;;;1;5;1
+10741;10/12/2020;735;LIF 149;Makarsic, Sebastian;1;1076;LOPEZ CENTURION, Cristian Maximiliano;60;123;;183;5;1
+10742;10/12/2020;740;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;1;6;;7;5;1
+10743;10/12/2020;736;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;65;169;;234;5;1
+10744;10/12/2020;737;msp 495;Galindez, Miguel;1;771;CCANCCE, Jose Antonio ( MRG );70;124;;194;5;1
+10745;10/12/2020;738;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;48;160;;208;5;1
+10730;10/12/2020;37;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);1;;;1;5;1
+10746;10/12/2020;740;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);1;5;;6;5;1
+10748;10/12/2020;739;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);28;59;;87;5;1
+10726;10/12/2020;3;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;87;;87;6;1
+10725;10/12/2020;311;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;128;128;6;1
+10723;10/12/2020;303;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;22;22;5;1
+10721;10/12/2020;304;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;15;15;5;1
+10717;10/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;1;;1;5;1
+10722;10/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;44;;44;5;1
+10720;10/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;146;146;5;1
+10719;10/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;106;106;5;1
+10724;10/12/2020;301;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;193;193;5;1
+10751;10/12/2020;232;;;;;;8;;;8;2;2
+10750;10/12/2020;28;;;;;;4;;;4;2;2
+10749;10/12/2020;8;;;;;;8;;;8;2;2
+10757;11/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );8;4;;12;5;1
+10758;11/12/2020;737;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;4;;4;5;1
+10796;11/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );38;89;;127;5;1
+10776;11/12/2020;37;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );1;;;1;5;1
+10754;11/12/2020;450;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;1;;1;5;1
+10769;11/12/2020;450;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );1;;;1;5;1
+10781;11/12/2020;450;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;7;;7;5;1
+10782;11/12/2020;732;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );64;144;;208;5;1
+10759;11/12/2020;733;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;5;;6;5;1
+10783;11/12/2020;678;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;10;10;5;1
+10784;11/12/2020;733;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);57;177;;234;5;1
+10760;11/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;3;;4;5;1
+10789;11/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );57;69;;126;5;1
+10797;11/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;9;9;5;1
+10787;11/12/2020;432;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;19;19;5;1
+10786;11/12/2020;5;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;4;4;5;1
+10788;11/12/2020;81;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;5;;5;5;1
+10790;11/12/2020;735;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;53;126;;179;5;1
+10791;11/12/2020;37;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;2;;;2;5;1
+10792;11/12/2020;736;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;52;99;;151;5;1
+10798;11/12/2020;5;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;4;4;5;1
+10793;11/12/2020;5;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;8;8;5;1
+10794;11/12/2020;7;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;2;2;5;1
+10795;11/12/2020;737;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;39;88;;127;5;1
+10775;11/12/2020;58;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );23;64;;87;5;1
+10774;11/12/2020;8;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );21;56;;77;5;1
+10777;11/12/2020;639;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;4;;4;5;1
+10778;11/12/2020;39;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;;4;4;5;1
+10779;11/12/2020;19;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;;12;12;5;1
+10780;11/12/2020;731;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );53;81;;134;5;1
+10755;11/12/2020;307;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;17;17;5;1
+10765;11/12/2020;307;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;91;91;5;1
+10766;11/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;154;154;5;1
+10761;11/12/2020;735;OIA 777;Baez, Roberto;1;1791;ALMADA, Mario Daniel;3;13;;16;5;1
+10768;11/12/2020;306;OIA 777;Baez, Roberto;1;1791;ALMADA, Mario Daniel;;;104;104;5;1
+10763;11/12/2020;305;OIA 777;Baez, Roberto;1;1791;ALMADA, Mario Daniel;;;40;40;5;1
+10753;11/12/2020;736;OIA 777;Baez, Roberto;1;1791;ALMADA, Mario Daniel;3;3;;3;5;1
+10772;11/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;314;314;6;1
+10716;11/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;12;12;6;1
+10773;11/12/2020;313;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;378;378;6;1
+10747;11/12/2020;738;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;46;46;5;1
+10785;11/12/2020;313;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;30;30;6;1
+10762;11/12/2020;302;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;22;22;5;1
+10770;11/12/2020;17;;;;;;;1;;1;2;2
+10756;11/12/2020;17;;;;;;;133;;133;2;2
+10752;11/12/2020;460;;;;;;16;;;16;2;2
+10799;11/12/2020;8;;;;;;7;;;7;2;2
+10800;11/12/2020;28;;;;;;4;;;4;2;2
+10813;14/12/2020;314;AB 934 DA;Salada, Juan;1;1351;VILLALBA, Sergio Leonardo ( MRG );;;215;215;6;1
+10805;14/12/2020;300;AD 417 TH;Rodriguez, Jose;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;113;113;5;1
+10806;14/12/2020;311;JKG 893;De Maio, Edgardo;1;1796;CONDE, Ariel Alejandro;;;437;437;6;1
+10815;14/12/2020;301;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;160;160;5;1
+10810;14/12/2020;311;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;72;72;6;1
+10809;14/12/2020;201;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;193;;193;6;1
+10803;14/12/2020;49;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;199;;199;6;1
+10804;14/12/2020;206;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;20;;20;6;1
+10807;14/12/2020;3;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;175;;175;6;1
+10808;14/12/2020;201;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;378;;378;6;1
+10814;14/12/2020;301;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;217;217;5;1
+10825;14/12/2020;301;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;;25;25;5;1
+10826;14/12/2020;302;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;;20;20;5;1
+10827;14/12/2020;304;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;;86;86;5;1
+10828;14/12/2020;305;FVC 706;Garcia, Luis;1;182;BUSTOS, Leonardo Fermin;;;132;132;5;1
+10823;14/12/2020;313;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;198;198;6;1
+10832;14/12/2020;28;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;6;;7;5;1
+10824;14/12/2020;18;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);2;;;2;5;1
+10801;14/12/2020;58;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);5;14;;19;5;1
+10829;14/12/2020;37;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);62;18;;80;5;1
+10835;14/12/2020;8;;;;;;8;;;8;2;2
+10836;14/12/2020;28;;;;;;3;;;3;2;2
+10831;14/12/2020;17;;;;;;;22;;22;2;2
+10833;14/12/2020;17;;;;;;;5;;5;2;2
+10834;14/12/2020;17;;;;;;;5;;5;2;2
+10839;14/12/2020;307;;;;;;;44;;44;2;2
+10866;15/12/2020;38;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;7;;7;5;1
+10863;15/12/2020;28;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );29;65;;94;5;1
+10854;15/12/2020;37;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;38;;38;5;1
+10865;15/12/2020;18;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );24;49;;73;5;1
+10864;15/12/2020;37;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );;6;;6;5;1
+10851;15/12/2020;18;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );1;;;1;5;1
+10867;15/12/2020;731;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );29;116;;145;5;1
+10837;15/12/2020;37;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;56;;56;5;1
+10868;15/12/2020;456;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;3;;3;5;1
+10869;15/12/2020;732;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );68;91;;159;5;1
+10873;15/12/2020;456;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;2;2;5;1
+10872;15/12/2020;733;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);74;121;;195;5;1
+10874;15/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;;;1;5;1
+10871;15/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );58;51;;109;5;1
+10841;15/12/2020;354;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;34;34;5;1
+10840;15/12/2020;156;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;5;5;5;1
+10875;15/12/2020;354;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;6;6;5;1
+10876;15/12/2020;735;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;57;189;;246;5;1
+10842;15/12/2020;131;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;5;5;5;1
+10843;15/12/2020;234;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;5;5;5;1
+10879;15/12/2020;736;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;1;;;1;5;1
+10877;15/12/2020;234;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;15;15;5;1
+10878;15/12/2020;736;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;52;92;;144;5;1
+10850;15/12/2020;135;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;10;10;5;1
+10880;15/12/2020;737;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;52;95;;147;5;1
+10881;15/12/2020;106;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;10;10;5;1
+10882;15/12/2020;835;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;2;2;5;1
+10883;15/12/2020;135;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;2;2;5;1
+10845;15/12/2020;106;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;7;7;5;1
+10844;15/12/2020;128;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;25;25;5;1
+10884;15/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );64;105;;169;5;1
+10816;15/12/2020;302;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;103;103;5;1
+10860;15/12/2020;302;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;198;198;5;1
+10856;15/12/2020;301;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;128;128;5;1
+10858;15/12/2020;304;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;90;90;5;1
+10855;15/12/2020;300;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;41;41;5;1
+10817;15/12/2020;303;NKL 403;Palacios, Hugo;1;1678;RIGHETTI, Matias Ricardo (MRG);;;42;42;5;1
+10857;15/12/2020;303;NKL 403;Palacios, Hugo;1;1678;RIGHETTI, Matias Ricardo (MRG);;;204;204;5;1
+10888;15/12/2020;303;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;216;216;5;1
+10887;15/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;169;169;5;1
+10861;15/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;95;95;6;1
+10852;15/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;400;400;6;1
+10889;15/12/2020;28;;;;;;5;;;5;2;2
+10890;15/12/2020;8;;;;;;7;;;7;2;2
+10913;16/12/2020;19;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;2;2;5;1
+10912;16/12/2020;39;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;22;22;5;1
+10908;16/12/2020;37;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;2;2;5;1
+10909;16/12/2020;8;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );28;30;;58;5;1
+9441;16/12/2020;20;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;2;;2;5;1
+10914;16/12/2020;731;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );38;130;;168;5;1
+10918;16/12/2020;450;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;9;;9;5;1
+10919;16/12/2020;732;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );53;151;;204;5;1
+10922;16/12/2020;458;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;20;20;5;1
+10923;16/12/2020;158;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;27;27;5;1
+10924;16/12/2020;733;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);49;133;;182;5;1
+10917;16/12/2020;733;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;;;1;5;1
+10925;16/12/2020;454;LIF 149;Makarsic, Sebastian;1;1295;LOSITO DIAS, Cristian Andres ( MRG );;;32;32;5;1
+10926;16/12/2020;734;LIF 149;Makarsic, Sebastian;1;1295;LOSITO DIAS, Cristian Andres ( MRG );55;128;;183;5;1
+10838;16/12/2020;37;LIF 149;Makarsic, Sebastian;1;1295;LOSITO DIAS, Cristian Andres ( MRG );;10;;10;5;1
+10893;16/12/2020;735;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;2;2;;4;5;1
+10846;16/12/2020;554;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;12;12;5;1
+10928;16/12/2020;233;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;2;;;2;5;1
+10929;16/12/2020;735;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;61;127;;188;5;1
+10943;16/12/2020;736;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;1;;;1;5;1
+10930;16/12/2020;7;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;4;4;5;1
+10931;16/12/2020;505;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;16;16;5;1
+10932;16/12/2020;5;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;24;24;5;1
+10933;16/12/2020;132;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;25;25;5;1
+10934;16/12/2020;432;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;12;12;5;1
+10896;16/12/2020;737;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;3;3;;6;5;1
+10935;16/12/2020;736;EZH 963;Diaz, jorge;1;1076;LOPEZ CENTURION, Cristian Maximiliano;51;97;;148;5;1
+10916;16/12/2020;90;AB 934 DA;Salada, Juan;1;1470;DONDERO, Jorge Daniel ( MRG );;;49;49;5;1
+10886;16/12/2020;739;AB 934 DA;Salada, Juan;1;1470;DONDERO, Jorge Daniel ( MRG );3;17;;20;5;1
+10915;16/12/2020;737;AB 934 DA;Salada, Juan;1;1470;DONDERO, Jorge Daniel ( MRG );35;78;;113;5;1
+10911;16/12/2020;58;AB 934 DA;Salada, Juan;1;1470;DONDERO, Jorge Daniel ( MRG );23;30;;53;5;1
+10897;16/12/2020;738;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );5;46;;51;5;1
+10940;16/12/2020;502;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );;;2;2;5;1
+10939;16/12/2020;2;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );;;9;9;5;1
+10941;16/12/2020;130;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );;;28;28;5;1
+10942;16/12/2020;39;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );;;21;21;5;1
+10936;16/12/2020;738;AB 325 WT;De Maio, Ruben;1;4114;MARTINEZ, Adrian Matias ( MRG );52;137;;189;5;1
+10920;16/12/2020;313;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;212;212;6;1
+10921;16/12/2020;306;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;57;57;5;1
+10937;16/12/2020;306;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;57;57;5;1
+10927;16/12/2020;313;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;260;260;6;1
+10900;16/12/2020;306;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;66;66;5;1
+10819;16/12/2020;306;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;208;208;5;1
+10903;16/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;61;61;5;1
+10899;16/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;30;30;5;1
+10822;16/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;13;13;5;1
+10820;16/12/2020;307;msp 495;Galindez, Miguel;1;1346;IRIARTE, Jesus Alejandro;;;25;25;5;1
+10902;16/12/2020;307;msp 495;Galindez, Miguel;1;1346;IRIARTE, Jesus Alejandro;;;255;255;5;1
+10938;16/12/2020;737;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;4;44;;48;5;1
+10894;16/12/2020;737;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;223;223;5;1
+10818;16/12/2020;305;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;100;100;5;1
+10906;16/12/2020;305;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;51;51;5;1
+10895;16/12/2020;736;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;37;37;5;1
+10905;16/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;41;41;5;1
+10947;16/12/2020;8;;;;;;8;;;8;2;2
+10946;16/12/2020;28;;;;;;5;;;5;2;2
+10853;17/12/2020;201;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;2;;2;6;1
+10983;17/12/2020;731;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;24;;24;5;1
+10964;17/12/2020;311;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;302;302;6;1
+10965;17/12/2020;311;JKG 893;De Maio, Edgardo;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;10;10;6;1
+10981;17/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );33;72;;105;5;1
+10982;17/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );20;34;;54;5;1
+10984;17/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );28;93;;121;5;1
+10972;17/12/2020;737;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;9;;10;5;1
+10973;17/12/2020;39;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;4;;4;5;1
+10974;17/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;8;;9;5;1
+10975;17/12/2020;39;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );;18;;18;5;1
+10953;17/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );;33;;33;5;1
+10970;17/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;1;;2;5;1
+10986;17/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;;;1;5;1
+10985;17/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );73;99;;172;5;1
+10988;17/12/2020;65;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;5;;5;5;1
+10989;17/12/2020;460;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );1;;;1;5;1
+10990;17/12/2020;734;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );53;123;;176;5;1
+10995;17/12/2020;90;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;2;;;2;5;1
+10991;17/12/2020;39;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;2;;;2;5;1
+10997;17/12/2020;37;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;1;50;;51;5;1
+10996;17/12/2020;91;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;63;63;5;1
+10892;17/12/2020;354;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;7;7;5;1
+10979;17/12/2020;90;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;4;4;5;1
+10978;17/12/2020;739;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;6;6;5;1
+10980;17/12/2020;735;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;2;7;;9;5;1
+10976;17/12/2020;737;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;3;29;;32;5;1
+10955;17/12/2020;739;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;2;6;;8;5;1
+10954;17/12/2020;90;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;34;34;5;1
+10998;17/12/2020;735;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;41;207;;248;5;1
+11007;17/12/2020;736;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;59;124;;183;5;1
+11003;17/12/2020;7;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;1;;;1;5;1
+11011;17/12/2020;132;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;1;;;1;5;1
+11005;17/12/2020;128;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;5;;5;5;1
+10971;17/12/2020;737;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;2;;;2;5;1
+11006;17/12/2020;106;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;29;29;5;1
+10891;17/12/2020;106;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;9;9;5;1
+11004;17/12/2020;232;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;;5;5;5;1
+10848;17/12/2020;455;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;23;23;5;1
+11008;17/12/2020;256;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;2;2;5;1
+11009;17/12/2020;37;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);7;12;;19;5;1
+11010;17/12/2020;737;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);61;54;;115;5;1
+11021;17/12/2020;739;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;14;14;5;1
+10945;17/12/2020;132;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;16;16;5;1
+11012;17/12/2020;432;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;2;;;2;5;1
+10944;17/12/2020;432;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;10;10;5;1
+10969;17/12/2020;735;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;4;22;;26;5;1
+11013;17/12/2020;232;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;18;18;5;1
+11014;17/12/2020;131;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;5;5;5;1
+11015;17/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;43;130;;173;5;1
+10956;17/12/2020;737;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );1;15;;16;5;1
+10960;17/12/2020;90;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;9;9;5;1
+11020;17/12/2020;805;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;11;11;5;1
+10950;17/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );2;7;;9;5;1
+11019;17/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );55;83;;138;5;1
+10987;17/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;32;32;5;1
+10961;17/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;212;212;5;1
+10957;17/12/2020;37;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;5;5;5;1
+10962;17/12/2020;301;OIA 777;Baez, Roberto;1;1678;RIGHETTI, Matias Ricardo (MRG);;;354;354;5;1
+10999;17/12/2020;578;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;6;6;5;1
+11000;17/12/2020;678;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;5;5;5;1
+11001;17/12/2020;37;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;7;12;;19;5;1
+11002;17/12/2020;741;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;10;11;;21;5;1
+10967;17/12/2020;303;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;107;107;5;1
+10966;17/12/2020;302;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;90;90;5;1
+10968;17/12/2020;304;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;13;13;5;1
+11023;17/12/2020;735;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);1;38;;39;5;1
+11025;17/12/2020;556;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;20;20;5;1
+11024;17/12/2020;37;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;40;;40;5;1
+11018;17/12/2020;738;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;53;53;5;1
+11017;17/12/2020;18;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;57;;57;5;1
+10830;17/12/2020;311;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;64;64;6;1
+11016;17/12/2020;301;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;159;159;5;1
+10951;17/12/2020;735;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;67;67;5;1
+10952;17/12/2020;233;enp 880;Mauricio, Azzara;1;8052;ALSINA, Mariano (MRG);;;30;30;5;1
+10907;17/12/2020;17;;;;;;;17;;17;2;2
+10948;17/12/2020;17;;;;;;;7;;7;2;2
+10963;17/12/2020;17;;;;;;;24;;24;2;2
+11028;17/12/2020;8;;;;;;8;;;8;2;2
+11029;17/12/2020;28;;;;;;4;;;4;2;2
+11026;17/12/2020;201;;;;;;;2;;2;2;2
+11063;18/12/2020;736;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;48;123;;171;5;1
+10959;18/12/2020;737;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;;20;;20;5;1
+11052;18/12/2020;8;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );33;27;;60;5;1
+11055;18/12/2020;732;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );33;53;;86;5;1
+11053;18/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );21;28;;49;5;1
+11060;18/12/2020;733;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );28;78;;106;5;1
+11061;18/12/2020;734;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );48;107;;155;5;1
+11062;18/12/2020;735;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );56;99;;155;5;1
+11064;18/12/2020;737;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);48;163;;211;5;1
+11065;18/12/2020;37;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;1;;;1;5;1
+11066;18/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;48;127;;175;5;1
+11068;18/12/2020;106;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;17;;17;5;1
+11067;18/12/2020;739;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;47;129;;176;5;1
+11044;18/12/2020;306;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;98;98;5;1
+11027;18/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );1;;;1;5;1
+11036;18/12/2020;805;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;22;22;5;1
+11056;18/12/2020;805;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;3;3;5;1
+11057;18/12/2020;740;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );15;32;;47;5;1
+11046;18/12/2020;307;JKG 893;De Maio, Edgardo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;174;174;5;1
+11045;18/12/2020;308;JKG 893;De Maio, Edgardo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;110;110;5;1
+11034;18/12/2020;739;JKG 893;De Maio, Edgardo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;20;20;5;1
+11043;18/12/2020;305;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;64;64;5;1
+11048;18/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;217;217;6;1
+11047;18/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;606;606;6;1
+11054;18/12/2020;731;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;57;;57;5;1
+11049;18/12/2020;313;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;;357;357;6;1
+9532;18/12/2020;37;jpp 494;Miguel, Santiago;1;771;CCANCCE, Jose Antonio ( MRG );;194;;194;5;1
+11069;18/12/2020;8;;;;;;7;;;7;2;2
+11070;18/12/2020;28;;;;;;4;;;4;2;2
+11079;19/12/2020;306;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;170;170;5;1
+11078;19/12/2020;305;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;252;252;5;1
+11093;19/12/2020;37;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;66;66;5;1
+11080;19/12/2020;308;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;236;236;5;1
+11075;19/12/2020;306;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;47;47;5;1
+11076;19/12/2020;736;enp 880;Mauricio, Azzara;1;1470;DONDERO, Jorge Daniel ( MRG );;;61;61;5;1
+11107;21/12/2020;739;JOT 778;Azzara, Daniel;1;1295;LOSITO DIAS, Cristian Andres ( MRG );4;;;4;5;1
+11109;21/12/2020;37;JOT 778;Azzara, Daniel;1;1295;LOSITO DIAS, Cristian Andres ( MRG );48;10;;58;5;1
+11086;21/12/2020;10;JKG 893;De Maio, Edgardo;1;1796;CONDE, Ariel Alejandro;;;23;23;5;1
+11100;21/12/2020;311;JKG 893;De Maio, Edgardo;1;1796;CONDE, Ariel Alejandro;;;231;231;6;1
+11051;21/12/2020;311;JKG 893;De Maio, Edgardo;1;1796;CONDE, Ariel Alejandro;;;107;107;6;1
+11050;21/12/2020;201;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;2;;2;6;1
+11090;21/12/2020;201;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;320;;320;6;1
+11089;21/12/2020;49;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;8;;8;6;1
+11094;21/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;66;66;5;1
+11092;21/12/2020;3;AD 417 TH;Rodriguez, Jose;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;141;;141;6;1
+11108;21/12/2020;311;AD 417 TH;Rodriguez, Jose;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;81;81;6;1
+11106;21/12/2020;314;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;25;25;6;1
+11105;21/12/2020;314;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;232;232;6;1
+11097;21/12/2020;303;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;11;11;5;1
+11098;21/12/2020;304;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;31;31;5;1
+11096;21/12/2020;302;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;97;97;5;1
+11095;21/12/2020;301;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;39;39;5;1
+11073;21/12/2020;37;NKL 403;Palacios, Hugo;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;;4;4;5;1
+11040;21/12/2020;202;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;45;;45;6;1
+11077;21/12/2020;307;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;;;699;699;5;1
+11101;21/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;320;320;6;1
+11104;21/12/2020;314;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;27;27;6;1
+11113;21/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;140;140;5;1
+11114;21/12/2020;736;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;61;61;5;1
+11115;21/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;170;170;5;1
+11121;21/12/2020;462;;;;;;12;;;12;2;2
+11122;21/12/2020;233;;;;;;1;;;1;2;2
+11116;21/12/2020;28;;;;;;4;;;4;2;2
+11117;21/12/2020;8;;;;;;8;;;8;2;2
+11081;21/12/2020;21;;;;;;;8;;8;2;2
+11082;21/12/2020;49;;;;;;;55;;55;2;2
+11141;22/12/2020;28;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );35;31;;66;5;1
+11142;22/12/2020;18;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );30;95;;125;5;1
+11144;22/12/2020;731;AB 325 WT;De Maio, Ruben;1;1470;DONDERO, Jorge Daniel ( MRG );19;160;;179;5;1
+11145;22/12/2020;732;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );64;80;;144;5;1
+11146;22/12/2020;733;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );69;53;;122;5;1
+11147;22/12/2020;37;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;5;15;;20;5;1
+11148;22/12/2020;734;NKL 403;Palacios, Hugo;1;1076;LOPEZ CENTURION, Cristian Maximiliano;42;170;;212;5;1
+11150;22/12/2020;735;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;59;96;;155;5;1
+11149;22/12/2020;37;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;;10;;10;5;1
+11151;22/12/2020;735;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;2;;;2;5;1
+11152;22/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);62;97;;159;5;1
+11153;22/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;63;154;;217;5;1
+11158;22/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );52;98;;150;5;1
+11087;22/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;5;;5;5;1
+11083;22/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;2;;;2;5;1
+11143;22/12/2020;739;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;14;42;;56;5;1
+11132;22/12/2020;304;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;38;38;5;1
+11133;22/12/2020;303;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;73;73;5;1
+11134;22/12/2020;302;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;26;26;5;1
+11103;22/12/2020;17;AB 934 DA;Salada, Juan;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;69;;69;5;1
+11120;22/12/2020;314;AB 934 DA;Salada, Juan;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;71;71;6;1
+11123;22/12/2020;314;AB 934 DA;Salada, Juan;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;185;185;6;1
+11135;22/12/2020;305;JKG 893;De Maio, Edgardo;1;1791;ALMADA, Mario Daniel;;;98;98;5;1
+11136;22/12/2020;306;JKG 893;De Maio, Edgardo;1;1791;ALMADA, Mario Daniel;;;47;47;5;1
+11137;22/12/2020;307;JKG 893;De Maio, Edgardo;1;1791;ALMADA, Mario Daniel;;;15;15;5;1
+11138;22/12/2020;308;JKG 893;De Maio, Edgardo;1;1791;ALMADA, Mario Daniel;;;131;131;5;1
+11131;22/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;198;198;5;1
+11128;22/12/2020;300;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;6;6;5;1
+11118;22/12/2020;300;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;160;160;5;1
+11130;22/12/2020;300;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;53;53;5;1
+11119;22/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;200;200;5;1
+11129;22/12/2020;301;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;160;160;5;1
+11159;22/12/2020;28;;;;;;5;;;5;2;2
+11160;22/12/2020;8;;;;;;8;;;8;2;2
+11085;22/12/2020;37;AB 934 DA;Salada, Juan;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;82;;82;5;1
+11162;22/12/2020;300;AB 934 DA;Salada, Juan;1;5042;VAN DER BUERIE, Pablo Javier (MRG);;;14;14;5;1
+11124;22/12/2020;37;OIA 777;Baez, Roberto;1;1346;IRIARTE, Jesus Alejandro;;2;;2;5;1
+11184;23/12/2020;8;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );34;34;;68;5;1
+11188;23/12/2020;731;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );52;139;;191;5;1
+11179;23/12/2020;37;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;4;;5;5;1
+11180;23/12/2020;734;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );1;5;;6;5;1
+11181;23/12/2020;738;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );4;;;4;5;1
+11185;23/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );26;51;;77;5;1
+11189;23/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );29;121;;150;5;1
+11190;23/12/2020;733;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );70;50;;120;5;1
+11191;23/12/2020;734;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;46;109;;155;5;1
+11182;23/12/2020;734;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;;26;;26;5;1
+11178;23/12/2020;734;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;;4;;4;5;1
+11177;23/12/2020;37;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;1;4;;5;5;1
+11192;23/12/2020;735;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);64;85;;149;5;1
+11193;23/12/2020;736;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );60;111;;171;5;1
+11175;23/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;12;12;5;1
+11195;23/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;57;125;;182;5;1
+11196;23/12/2020;738;AB 934 DA;Salada, Juan;1;1076;LOPEZ CENTURION, Cristian Maximiliano;55;186;;241;5;1
+11161;23/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );5;;;5;5;1
+11176;23/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );5;4;;9;5;1
+11198;23/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );55;134;;189;5;1
+11058;23/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1346;IRIARTE, Jesus Alejandro;;67;;67;5;1
+11126;23/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1346;IRIARTE, Jesus Alejandro;;;229;229;5;1
+11186;23/12/2020;740;AD 417 TH;Rodriguez, Jose;1;1346;IRIARTE, Jesus Alejandro;13;16;;29;5;1
+11163;23/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1346;IRIARTE, Jesus Alejandro;;1;216;217;5;1
+11125;23/12/2020;301;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;136;136;5;1
+11127;23/12/2020;300;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;1;;1;5;1
+11171;23/12/2020;307;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;148;148;5;1
+11173;23/12/2020;306;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;145;145;5;1
+11174;23/12/2020;305;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;10;10;5;1
+11170;23/12/2020;308;OIA 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;115;115;5;1
+11169;23/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;47;47;5;1
+11167;23/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;138;138;5;1
+11183;23/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;15;15;5;1
+11166;23/12/2020;313;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;93;93;6;1
+11168;23/12/2020;734;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;62;62;5;1
+11156;23/12/2020;735;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;4;;64;68;5;1
+11155;23/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;50;50;5;1
+11154;23/12/2020;301;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;40;40;5;1
+11199;23/12/2020;28;;;;;;3;;;3;2;2
+11200;23/12/2020;8;;;;;;10;;;10;2;2
+11215;24/12/2020;313;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;13;;13;6;1
+11217;24/12/2020;303;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;;24;24;5;1
+11216;24/12/2020;302;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;;64;64;5;1
+11232;24/12/2020;739;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;23;33;;56;5;1
+11235;24/12/2020;735;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;31;95;;126;5;1
+11225;24/12/2020;737;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;3;11;;14;5;1
+11212;24/12/2020;734;LIF 149;Makarsic, Sebastian;1;182;BUSTOS, Leonardo Fermin;;29;;29;5;1
+11237;24/12/2020;256;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);;;2;2;5;1
+11238;24/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);39;68;;107;5;1
+11208;24/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;24;;24;5;1
+11206;24/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;;;20;20;5;1
+11239;24/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;31;109;;140;5;1
+11220;24/12/2020;732;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );3;45;;48;5;1
+11231;24/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );41;52;;93;5;1
+11210;24/12/2020;300;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;131;131;5;1
+11226;24/12/2020;37;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;62;;62;5;1
+11209;24/12/2020;311;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;64;64;6;1
+11194;24/12/2020;90;OIA 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;;280;280;5;1
+11211;24/12/2020;311;oia 777;Baez, Roberto;1;8052;ALSINA, Mariano (MRG);;;198;198;6;1
+11214;24/12/2020;37;JKG 893;De Maio, Edgardo;1;771;CCANCCE, Jose Antonio ( MRG );;3;;3;5;1
+11218;24/12/2020;301;JKG 893;De Maio, Edgardo;1;771;CCANCCE, Jose Antonio ( MRG );;;299;299;5;1
+11224;24/12/2020;301;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;116;116;5;1
+11223;24/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;195;195;5;1
+11222;24/12/2020;304;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;70;70;5;1
+11207;24/12/2020;737;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;56;56;5;1
+11204;24/12/2020;736;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;51;51;5;1
+11213;24/12/2020;734;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;69;69;5;1
+11221;24/12/2020;735;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;38;38;5;1
+11201;24/12/2020;738;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;35;35;5;1
+11219;24/12/2020;738;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;;8;8;5;1
+11234;24/12/2020;734;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;41;83;;124;5;1
+11233;24/12/2020;733;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );40;26;;66;5;1
+11230;24/12/2020;732;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );42;49;;91;5;1
+11227;24/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );30;12;;42;5;1
+11228;24/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );23;6;;29;5;1
+11229;24/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );25;23;;48;5;1
+11242;24/12/2020;8;;;;;;8;;;8;2;2
+11243;24/12/2020;28;;;;;;4;;;4;2;2
+11264;28/12/2020;306;enp 880;Mauricio, Azzara;1;1794;GOMEZ, Cristian Javier;;;92;92;5;1
+11263;28/12/2020;313;enp 880;Mauricio, Azzara;1;1794;GOMEZ, Cristian Javier;;;80;80;6;1
+11240;28/12/2020;735;enp 880;Mauricio, Azzara;1;1794;GOMEZ, Cristian Javier;;;160;160;5;1
+11265;28/12/2020;308;enp 880;Mauricio, Azzara;1;1794;GOMEZ, Cristian Javier;;;59;59;5;1
+11266;28/12/2020;314;enp 880;Mauricio, Azzara;1;1794;GOMEZ, Cristian Javier;;;461;461;6;1
+11084;28/12/2020;17;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;261;;261;5;1
+11253;28/12/2020;456;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;4;;4;5;1
+11260;28/12/2020;154;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );1;;;1;5;1
+11257;28/12/2020;37;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );3;;;3;5;1
+11256;28/12/2020;37;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );;3;;3;5;1
+11255;28/12/2020;37;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );22;35;;57;5;1
+11252;28/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;100;;100;6;1
+11251;28/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;32;32;6;1
+11261;28/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;6;6;6;1
+11259;28/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;28;28;5;1
+11270;28/12/2020;307;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;31;31;5;1
+11269;28/12/2020;307;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;14;14;5;1
+11267;28/12/2020;313;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;21;21;6;1
+11268;28/12/2020;308;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;;;22;22;5;1
+11244;28/12/2020;311;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;8;;8;6;1
+11247;28/12/2020;49;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;4;;4;6;1
+11249;28/12/2020;206;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;51;;51;6;1
+11248;28/12/2020;201;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;70;;70;6;1
+11245;28/12/2020;311;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;;67;67;6;1
+11250;28/12/2020;311;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;;7;7;6;1
+11246;28/12/2020;3;oia 777;Baez, Roberto;1;1225;CASTILLO, Julio Fernando ( MRG );;4;;4;6;1
+11254;28/12/2020;37;EZH 963;Diaz, jorge;1;8092;GULLO, Ariel Hernan (MRG);40;21;;61;5;1
+11271;28/12/2020;3;;;;;;;13;;13;2;2
+11272;28/12/2020;8;;;;;;9;;;9;2;2
+11273;28/12/2020;28;;;;;;4;;;4;2;2
+11287;29/12/2020;308;oia 777;Baez, Roberto;1;1796;CONDE, Ariel Alejandro;;;13;13;6;1
+11288;29/12/2020;313;oia 777;Baez, Roberto;1;1796;CONDE, Ariel Alejandro;;;47;47;6;1
+11286;29/12/2020;307;oia 777;Baez, Roberto;1;1796;CONDE, Ariel Alejandro;;;21;21;5;1
+11828;29/12/2020;305;oia 777;Baez, Roberto;1;1796;CONDE, Ariel Alejandro;;;74;74;5;1
+11289;29/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );43;38;;81;5;1
+11290;29/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );44;44;;88;5;1
+11291;29/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );13;51;;64;5;1
+11292;29/12/2020;732;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );82;55;;137;5;1
+11293;29/12/2020;733;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );75;47;;122;5;1
+11294;29/12/2020;734;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;56;101;;157;5;1
+11299;29/12/2020;835;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;;3;;3;5;1
+11295;29/12/2020;735;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;59;118;;177;5;1
+11298;29/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);76;45;;121;5;1
+11301;29/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;55;95;;150;5;1
+11302;29/12/2020;738;AB 934 DA;Salada, Juan;1;1791;ALMADA, Mario Daniel;52;122;;174;5;1
+11308;29/12/2020;740;AD 417 TH;Rodriguez, Jose;1;1678;RIGHETTI, Matias Ricardo (MRG);1;1;;2;5;1
+11306;29/12/2020;740;AD 417 TH;Rodriguez, Jose;1;1678;RIGHETTI, Matias Ricardo (MRG);20;23;;43;5;1
+11285;29/12/2020;314;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );;;41;41;6;1
+11303;29/12/2020;739;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );4;8;;12;5;1
+11307;29/12/2020;740;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );11;14;;25;5;1
+11276;29/12/2020;300;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;23;23;5;1
+11277;29/12/2020;301;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;14;14;5;1
+11278;29/12/2020;302;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;69;69;5;1
+11279;29/12/2020;304;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;7;7;5;1
+11275;29/12/2020;37;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;25;;25;5;1
+11280;29/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;80;80;5;1
+11284;29/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;38;38;5;1
+11281;29/12/2020;303;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;43;43;5;1
+11283;29/12/2020;313;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;167;167;6;1
+11300;29/12/2020;736;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;42;;42;5;1
+11274;29/12/2020;28;;;;;;13;;;13;2;2
+11304;29/12/2020;28;;;;;;4;;;4;2;2
+11305;29/12/2020;8;;;;;;10;;;10;2;2
+11373;31/12/2020;28;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );14;124;;138;5;1
+11372;31/12/2020;18;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );16;8;;24;5;1
+11374;31/12/2020;731;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );19;33;;52;5;1
+11375;31/12/2020;741;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;11;;12;5;1
+11376;31/12/2020;452;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );1;;;1;5;1
+11377;31/12/2020;732;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );42;23;;65;5;1
+11378;31/12/2020;733;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );32;19;;51;5;1
+11379;31/12/2020;456;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;1;;;1;5;1
+11380;31/12/2020;741;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;3;;;3;5;1
+11381;31/12/2020;734;LIF 149;Makarsic, Sebastian;1;1346;IRIARTE, Jesus Alejandro;35;43;;78;5;1
+11382;31/12/2020;735;AB 325 WT;De Maio, Ruben;1;1076;LOPEZ CENTURION, Cristian Maximiliano;29;53;;82;5;1
+11385;31/12/2020;741;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);1;6;;7;5;1
+11386;31/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);31;85;;116;5;1
+11387;31/12/2020;737;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;29;54;;83;5;1
+11360;31/12/2020;739;AB 934 DA;Salada, Juan;1;1678;RIGHETTI, Matias Ricardo (MRG);3;;;3;5;1
+11388;31/12/2020;741;AB 934 DA;Salada, Juan;1;1678;RIGHETTI, Matias Ricardo (MRG);2;7;;9;5;1
+11389;31/12/2020;738;AB 934 DA;Salada, Juan;1;1678;RIGHETTI, Matias Ricardo (MRG);21;34;;55;5;1
+11390;31/12/2020;739;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;16;38;;54;5;1
+11392;31/12/2020;741;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;3;19;;22;5;1
+11357;31/12/2020;740;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );17;51;;68;5;1
+11391;31/12/2020;740;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );17;15;;32;5;1
+11383;31/12/2020;741;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;5;;5;5;1
+11370;31/12/2020;311;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;107;107;6;1
+11371;31/12/2020;300;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;114;114;5;1
+11369;31/12/2020;311;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;154;154;6;1
+11365;31/12/2020;311;nnp 807;Santander, Gonzalo;1;1791;ALMADA, Mario Daniel;;;8;8;6;1
+11367;31/12/2020;303;nnp 807;Santander, Gonzalo;1;1791;ALMADA, Mario Daniel;;;39;39;5;1
+11368;31/12/2020;304;nnp 807;Santander, Gonzalo;1;1791;ALMADA, Mario Daniel;;;19;19;5;1
+11366;31/12/2020;302;nnp 807;Santander, Gonzalo;1;1791;ALMADA, Mario Daniel;;;6;6;5;1
+11364;31/12/2020;301;nnp 807;Santander, Gonzalo;1;1791;ALMADA, Mario Daniel;;;64;64;5;1
+11384;31/12/2020;740;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;20;20;5;1
+11363;31/12/2020;311;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;66;66;6;1
+11362;31/12/2020;302;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;170;170;5;1
+11361;31/12/2020;303;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;271;271;5;1
+11325;30/12/2020;731;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );45;26;;71;5;1
+11321;30/12/2020;37;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );;5;;5;5;1
+11322;30/12/2020;8;AB 325 WT;De Maio, Ruben;1;1450;IGLESIAS, Santiago Ezequiel ( MRG );21;31;;52;5;1
+11323;30/12/2020;58;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );30;60;;90;5;1
+11326;30/12/2020;732;NKL 403;Palacios, Hugo;1;1470;DONDERO, Jorge Daniel ( MRG );32;94;;126;5;1
+11327;30/12/2020;733;EZH 963;Diaz, jorge;1;1295;LOSITO DIAS, Cristian Andres ( MRG );60;77;;137;5;1
+11329;30/12/2020;734;JOT 778;Azzara, Daniel;1;1351;VILLALBA, Sergio Leonardo ( MRG );66;67;;133;5;1
+11312;30/12/2020;739;LIF 149;Makarsic, Sebastian;1;1076;LOPEZ CENTURION, Cristian Maximiliano;;41;;41;5;1
+11310;30/12/2020;739;LIF 149;Makarsic, Sebastian;1;1076;LOPEZ CENTURION, Cristian Maximiliano;20;;;20;5;1
+11330;30/12/2020;735;LIF 149;Makarsic, Sebastian;1;1076;LOPEZ CENTURION, Cristian Maximiliano;26;107;;133;5;1
+11331;30/12/2020;736;LHZ 027;Fernandez, Pablo;1;8092;GULLO, Ariel Hernan (MRG);56;128;;184;5;1
+11332;30/12/2020;737;AD 417 TH;Rodriguez, Jose;1;1796;CONDE, Ariel Alejandro;39;82;;121;5;1
+11333;30/12/2020;738;FVC 706;Garcia, Luis;1;1794;GOMEZ, Cristian Javier;51;106;;157;5;1
+11338;30/12/2020;739;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;;27;;27;5;1
+11335;30/12/2020;739;AB 934 DA;Salada, Juan;1;1346;IRIARTE, Jesus Alejandro;36;128;;164;5;1
+11313;30/12/2020;738;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );1;2;;3;5;1
+11339;30/12/2020;740;msp 495;Galindez, Miguel;1;4114;MARTINEZ, Adrian Matias ( MRG );17;35;;52;5;1
+11315;30/12/2020;307;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;49;49;5;1
+11324;30/12/2020;741;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );8;2;;10;5;1
+11316;30/12/2020;308;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;49;49;5;1
+11314;30/12/2020;306;oia 777;Baez, Roberto;1;771;CCANCCE, Jose Antonio ( MRG );;;32;32;5;1
+11320;30/12/2020;313;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;42;42;6;1
+11334;30/12/2020;738;JKG 893;De Maio, Edgardo;1;1225;CASTILLO, Julio Fernando ( MRG );;;74;74;5;1
+11317;30/12/2020;305;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;195;195;5;1
+11318;30/12/2020;306;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;91;91;5;1
+11319;30/12/2020;308;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;100;100;5;1
+11328;30/12/2020;733;enp 880;Mauricio, Azzara;1;1446;MORSANT, Federico Ren;;;218;218;5;1
+11311;30/12/2020;17;;;;;;;30;;30;2;2
+11336;30/12/2020;8;;;;;;8;;;8;2;2
+11337;30/12/2020;28;;;;;;6;;;6;2;2
